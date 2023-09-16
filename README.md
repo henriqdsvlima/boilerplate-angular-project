@@ -257,18 +257,5 @@ Before you begin, ensure that you have the following prerequisites installed:
 
 ### 📦 Installation
 
-1. Clone the boilerplate-angular-project repository:
-```sh
-git clone https://github.com/henriqdsvlima/boilerplate-angular-project
-```
-
-2. Change to the project directory:
-```sh
-cd boilerplate-angular-project
-```
-
-3. Install the dependencies:
-```sh
-npm install
-```
+Just click on "Use This Template" button above and choose your repository name
 ---
