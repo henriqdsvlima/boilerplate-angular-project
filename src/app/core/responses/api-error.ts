@@ -1,6 +1,6 @@
 export interface ApiError {
   statusCode?: number;
-  type?: ApiErrorType
+  type?: ApiErrorType;
   message?: string;
   errors?: Record<string, string[]>;
 }
