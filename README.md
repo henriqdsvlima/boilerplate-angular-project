@@ -24,8 +24,8 @@
 - [📒 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
 - [⚙️ Features](#-features)
-- [📂 Project Structure](#project-structure)
-- [🧩 Modules](#modules)
+- [📂 Project Structure](#-project-structure)
+- [🧩 Modules](#-modules)
 - [🚀 Getting Started](#-getting-started)
 ---
 
