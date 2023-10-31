@@ -5,7 +5,7 @@ import { ToCurrencyPipe } from './to-currency.pipe';
 
 describe('Pipe: ToCurrencye', () => {
   it('create an instance', () => {
-    let pipe = new ToCurrencyPipe();
+    const pipe = new ToCurrencyPipe();
     expect(pipe).toBeTruthy();
   });
 });

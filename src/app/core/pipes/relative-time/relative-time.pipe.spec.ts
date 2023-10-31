@@ -5,7 +5,7 @@ import { RelativeTimePipe } from './relative-time.pipe';
 
 describe('Pipe: RelativeTimee', () => {
   it('create an instance', () => {
-    let pipe = new RelativeTimePipe();
+    const pipe = new RelativeTimePipe();
     expect(pipe).toBeTruthy();
   });
 });

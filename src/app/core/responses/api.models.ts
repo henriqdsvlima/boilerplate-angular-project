@@ -1,4 +1,7 @@
 // api.models.ts
+
+
+
 export interface ApiResponse<T> {
   data: T;
   success: boolean;
@@ -11,6 +14,7 @@ export interface ApiListResponse<T> {
   message?: string;
   pagination?: Pagination;
 }
+//
 
 export interface Pagination {
   total: number;

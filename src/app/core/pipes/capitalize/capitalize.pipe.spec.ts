@@ -5,7 +5,7 @@ import { CapitalizePipe } from './capitalize.pipe';
 
 describe('Pipe: Capitalizee', () => {
   it('create an instance', () => {
-    let pipe = new CapitalizePipe();
+    const pipe = new CapitalizePipe();
     expect(pipe).toBeTruthy();
   });
 });

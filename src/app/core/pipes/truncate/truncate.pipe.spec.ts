@@ -5,7 +5,7 @@ import { TruncatePipe } from './truncate.pipe';
 
 describe('Pipe: Truncatee', () => {
   it('create an instance', () => {
-    let pipe = new TruncatePipe();
+    const pipe = new TruncatePipe();
     expect(pipe).toBeTruthy();
   });
 });
